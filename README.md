@@ -8,6 +8,4 @@ https://www.kaggle.com/datasets/mitishaagarwal/patient
 
 The full code can be viewed in the "Data Mining Code.R" file.
 
-The full report can be viewed in the "Report.docx" document
-
 If anyone wants to use a part of the code. Please reference it. Thanks.
