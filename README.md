@@ -6,4 +6,5 @@ The project is coded in R Programming Language using R Studio IDE.
 The dataset is too huge to be uploaded to GitHub. Therefore, here is the link to the dataset on Kaggle:
 https://www.kaggle.com/datasets/mitishaagarwal/patient
 
-The full report can be viewed in the "" document
+The full code can be viewed in the "Data Mining Code.R" file.
+The full report can be viewed in the "Report.docx" document
